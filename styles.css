@@ -1,0 +1,17 @@
+.navbar-dark .navbar_brand {
+  color; red;
+}
+
+.jumbotron {
+  background-image: url(http://images.panoramas.com/media/catalog/product/u/w/uwi4d.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lead {
+  color: purple;
+  font-family: 'Titan One', cursive;
+}
+.display-3 {
+  color: black;
+  font-family: 'Titan One', cursive;
+}
